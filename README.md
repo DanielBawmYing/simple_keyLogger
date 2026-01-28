@@ -1,6 +1,6 @@
 # Simple Keylogger (Educational Use Only)
 
-Minimal example that logs keystrokes to `keyfile.txt` using `pynput`. Intended for learning and defensive security research, not covert use.
+Minimal example that logs keystrokes to `keyfile.txt` using `pynput`. Intended for learning cybersecurity, not covert use.
 
 ## Requirements
 - Python 3.8+
